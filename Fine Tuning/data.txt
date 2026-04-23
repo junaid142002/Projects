@@ -1,0 +1,15 @@
+there are 200 students in our collage.in which 140 are management quota students,20 are semi govermenet and rest are goverment quota students.
+
+Throughout the year, our business tracked its financial performance, detailing monthly sales, expenses, and the resulting profit or loss. Below is a summary of our business's financial activity:
+
+In January, our sales amounted to $5000, while our expenses totaled $3000, leaving us with a profit of $2000. As the year progressed, we saw fluctuations in our financial performance. For instance, in February, sales increased to $5500, with expenses rising to $3200, resulting in a profit of $2300.
+
+March showed further growth with sales reaching $6000 and expenses at $3500, resulting in a profit of $2500. In April, although sales increased slightly to $6200, expenses also rose to $3800, leading to a profit of $2400.
+
+As we moved into the middle of the year, our business experienced increased revenue. In May, sales climbed to $7000, with expenses at $4000, resulting in a profit of $3000. June and July showed similar trends with sales continuing to rise, reaching $7500 and $8000, respectively, while expenses increased modestly, resulting in profits of $3300 and $3700 for those months.
+
+August and September remained strong months for our business, with sales reaching $8200 and $7800, respectively. Expenses stayed relatively stable, resulting in profits of $3800 and $3600.
+
+However, as we approached the end of the year, we saw a slight decline in performance. In October, although sales remained at $7500, expenses increased slightly to $4100, resulting in a profit of $3400. November and December followed a similar pattern, with profits declining to $3100 and $2800, respectively, despite steady sales.
+
+THE BUSINESS OWNER NAME IS YUSUF.
